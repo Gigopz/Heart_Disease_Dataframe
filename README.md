@@ -25,6 +25,8 @@ Apache Hadoop
 
 Java Development Kit (JDK 8 or later)
 
+Parquet Explorer
+
 
 Approach
 
